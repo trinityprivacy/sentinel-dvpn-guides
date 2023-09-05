@@ -5,7 +5,8 @@ You can find the following Sentinel dVPN Guides on our website:
 [https://trinityvalidator.com/docs/sentinelguides/intro](https://trinityvalidator.com/docs/sentinelguides/intro)
 
 - Sentinel Resources: [link](https://trinityvalidator.com/docs/category/resources)
-- Node Setup Guide: [link](https://trinityvalidator.com/docs/category/node-setup)
-- Validator Setup Guide: [link](https://trinityvalidator.com/docs/category/validator-setup)
+- Node Setup: [link](https://trinityvalidator.com/docs/category/node-setup)
+- Node Setup on Akask Network: [link](https://trinityvalidator.com/docs/category/node-setup-on-akash)
+- Validator Setup: [link](https://trinityvalidator.com/docs/category/validator-setup)
 
 Stake with us on using [REStake App](https://restake.app/sentinel/sentvaloper1mcwvu4vpvfcnxduzpelehmgga282wtc0xux7se)
