@@ -8,7 +8,9 @@ You can find the following Sentinel dVPN Guides on our website:
 - Node Setup: [link](https://trinityvalidator.com/docs/sentinelguides/node/intro)
 - Validator Setup: [link](https://trinityvalidator.com/docs/sentinelguides/validator/intro)
 
-Additionally Trinity Validator built the official Sentinel Documentation Websiste:
+---
+
+Trinity Validator is the proud creator of the official Sentinel Documentation Website, which can be accessed at the following link:
 
 [https://docs.sentinel.co](https://docs.sentinel.co)
 
