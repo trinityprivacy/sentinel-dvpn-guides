@@ -14,4 +14,6 @@ Trinity Validator is the proud creator of the official Sentinel Documentation We
 
 [https://docs.sentinel.co](https://docs.sentinel.co)
 
+---
+
 Stake with us on using [REStake App](https://restake.app/sentinel/sentvaloper1mcwvu4vpvfcnxduzpelehmgga282wtc0xux7se)
