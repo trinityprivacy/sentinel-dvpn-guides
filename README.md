@@ -2,10 +2,11 @@
 
 You can find the following Sentinel dVPN Guides below:
 
-- [Learn about Sentinel](https://trinityvalidator.com/docs/sentinelguides/resources)
-- [Run a Node](https://trinityvalidator.com/docs/sentinelguides/node)
-- [Run a Validator](https://trinityvalidator.com/docs/sentinelguides/validator)
-- [Monitor a Node](https://trinityvalidator.com/docs/sentinelguides/monitoring)
+- [Learn about Sentinel](https://trinityvalidator.com/docs/resources)
+- [Run a Node](https://trinityvalidator.com/docs/node)
+- [Run a Full Node](https://trinityvalidator.com/docs/full-node)
+- [Run a Validator](https://trinityvalidator.com/docs/validator)
+- [Monitor a Node](https://trinityvalidator.com/docs/monitoring)
 
 ---
 
